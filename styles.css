@@ -1,0 +1,25 @@
+.main-container {
+    border: 2px solid green;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    height: 150px;
+    background-color: firebrick;
+  }
+  main {
+    /* height: 100%; */
+    flex: 1;
+    background-color: wheat;
+  }
+  main section {
+    /* height: 50px; */
+    background-color: brown;
+    /* height: 1800px; */
+  }
+  footer {
+    height: 180px;
+    background-color: plum;
+  }
+  
